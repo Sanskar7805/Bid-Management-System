@@ -82,8 +82,8 @@ The following are the additional features/functionalities* of the project:
 
 ## Authors
 
-* **Froilan Sam Malibiran** - [froilansam](https://github.com/froilansam)
-* **Gramar Lacsina** - [lacsinagramar](https://github.com/lacsinagramar)
+* **Sanskar Soni** - [Sanskar7805](https://github.com/Sanskar7805)
+
 
 See also the list of [contributors](https://github.com/AMSOB/contributors) who participated in this project.
 
